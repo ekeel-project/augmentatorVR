@@ -1,6 +1,6 @@
 # EKEEL VIDEO AUGMENTATION
 
-# Source Code Access
+## Source Code Access
 
 
 For access requests, collaboration inquiries, or further information, please contact the Principal Investigator (PI):
@@ -10,3 +10,6 @@ For access requests, collaboration inquiries, or further information, please con
 
 
 Thank you for your interest.
+
+## Responsible unit
+This component was developed and maintained by the University of Genoa (UniGe).
