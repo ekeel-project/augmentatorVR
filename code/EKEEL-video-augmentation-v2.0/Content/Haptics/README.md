@@ -1,1 +1,0 @@
-Here are contained all elements related to data assets representing haptics

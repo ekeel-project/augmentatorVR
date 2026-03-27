@@ -1,1 +1,0 @@
-Here are contained all elements related to particle effects and systems (i.e. Niagara Systems)
